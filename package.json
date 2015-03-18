@@ -1,5 +1,5 @@
 {
-  "name": "redblack",
+  "name": "redblack.js",
   "version": "0.1.0",
   "description": "A red-black tree for storage and retrieval of key/value pairs",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arobson/redblack"
+    "url": "https://github.com/arobson/redblack.js"
   },
   "keywords": [
     "red black",
@@ -18,12 +18,12 @@
   "author": "Alex Robson",
   "license": "MIT License - http://opensource.org/licenses/MIT",
   "bugs": {
-    "url": "https://github.com/arobson/redblack/issues"
+    "url": "https://github.com/arobson/redblack.js/issues"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "homepage": "https://github.com/arobson/redblack",
+  "homepage": "https://github.com/arobson/redblack.js",
   "devDependencies": {
     "biggulp": "0.0.2",
     "chai": "^2.1.2",
