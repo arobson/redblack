@@ -1,0 +1,32 @@
+{
+  "name": "redblack",
+  "version": "0.1.0",
+  "description": "A red-black tree for storage and retrieval of key/value pairs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arobson/redblack"
+  },
+  "keywords": [
+    "red black",
+    "redblack",
+    "tree"
+  ],
+  "author": "Alex Robson",
+  "license": "MIT License - http://opensource.org/licenses/MIT",
+  "bugs": {
+    "url": "https://github.com/arobson/redblack/issues"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://github.com/arobson/redblack",
+  "devDependencies": {
+    "biggulp": "0.0.2",
+    "chai": "^2.1.2",
+    "gulp": "^3.8.11"
+  }
+}
